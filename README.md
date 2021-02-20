@@ -1,4 +1,4 @@
-﻿# Car Controller
+﻿# Arcade Car Controller
 An collection of scripts that allow to create arcade car physics.
 
 ## Notes
